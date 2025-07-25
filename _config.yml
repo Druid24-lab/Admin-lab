@@ -1,1 +1,7 @@
-theme: minima
+theme: jekyll-theme-cayman
+description: A blog about my personal projects
+author: Druid24-lab
+email: erudite.esaias@gmail.com
+url: https://github.com/Druid24-lab
+markdown: kramdown
+
