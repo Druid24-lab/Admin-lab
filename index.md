@@ -2,4 +2,5 @@
 title: Admin Lab🔬 
 ---
 
-Willkommen You can explore some projects and labs I have completed on this page. Viel Spaß and don't hesitate to send your suggestions.
+Willkommen!
+Explore some IT labs and projects I've completed. Viel Spaß, and feel free to share your thoughts or suggestions!
