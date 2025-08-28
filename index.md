@@ -2,4 +2,4 @@
 title: Admin Lab🔬 
 ---
 
-Welcome to my Tech Blog. I like to call it my 💼 Portfolio Blog since it entails personal projects and also serve as my "second brain" 🧠. Have fun, look around and get in touch. Viel Glück 🥠.
+Willkommen You can explore some projects and labs I have completed on this page. Viel Spaß and don't hesitate to send your suggestions.
