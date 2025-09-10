@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>My Site</title>
-    <link>https://druid24-lab.github.io/Admin-lab/</link>
-    <description> This Site does not provide RSS feed.</description>
-    <item>
-    <title>Go to Homepage</title>
-    <link>https://druid24-lab.github.io/Admin-lab/</link>
-    <description> <![CDATA[<a href="https://druid24-lab.github.io/Admin-lab">Hompeage</a>]]>
-    </description>
-    </item>
-  </channel>
-</rss>
+<note>
+  <body>
+    No RSS feed found please return to the homepage
+  </body>
+</note>
