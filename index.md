@@ -1,5 +1,5 @@
 ---
-title: Home-labs🔬
+title: Labs
 ---
 
 Willkommen!
