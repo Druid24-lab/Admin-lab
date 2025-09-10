@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://druid24-lab.github.io/Admin-lab">
-  </head>
-  <body>
-    <p>
-      Wenn Sie nicht automatisch weitergeleitet werden, klicken Sie auf <a href="https://druid24-lab.github.io/Admin-lab"></a>.
-    </p>
-  </body>
-</html>
+<rss version="2.0">
+  <channel>
+    <link>https://druid24-lab.github.io/Admin-lab</link>
+  </channel>
+</rss>
