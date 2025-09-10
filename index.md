@@ -1,5 +1,5 @@
 ---
-title: Labs
+title: Portfolio
 ---
 
 Willkommen!
