@@ -1,5 +1,5 @@
 ---
-title: Admin Lab🔬 
+title: Home-labs🔬
 ---
 
 Willkommen!
