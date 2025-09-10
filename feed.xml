@@ -1,7 +1,9 @@
 <rss version="2.0">
   <channel>
+    <item>
     <title>Homepage</title>
     <link>https://druid24-lab.github.io/Admin-lab</link>
     <description> Go back to homepage </description>
+    </item>
   </channel>
 </rss>
