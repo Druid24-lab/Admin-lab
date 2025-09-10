@@ -1,6 +1,6 @@
 ---
-layout: "Page"
-title: "About me"
+layout: page
+title: About
 ---
 
 This page is about me
