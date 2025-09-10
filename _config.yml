@@ -1,10 +1,12 @@
 theme: minima
+layout: home
 title: Admin lab 🔬
 description: IT Support & SysAdmin Labs 
 author: Druid24-lab
 email: isaiah.addo.arbeitskonto@outlook.de
 github_username : Druid24-lab
 twitter_username : Druid
+
 
 
 
