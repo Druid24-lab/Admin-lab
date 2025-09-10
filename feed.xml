@@ -1,8 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
+    <title>My Site</title>
+    <link>https://druid24-lab.github.io/Admin-lab/</link>
+    <description> This Site does not provide RSS feed.</description>
     <item>
-    <title>Homepage</title>
-    <link>https://druid24-lab.github.io/Admin-lab</link>
+    <title>Go to Homepage</title>
+    <link>https://druid24-lab.github.io/Admin-lab/</link>
     <description> Go back to homepage </description>
     </item>
   </channel>
