@@ -2,5 +2,5 @@
 title: Portfolio
 ---
 
-Willkommen!
-Explore some IT labs and projects I've completed. Viel Spaß, and feel free to share your thoughts or suggestions!
+Willkommen!👋
+Explore some personal projects I've completed. Viel Spaß, and feel free to share your thoughts or suggestions!
