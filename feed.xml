@@ -7,7 +7,7 @@
     <item>
     <title>Go to Homepage</title>
     <link>https://druid24-lab.github.io/Admin-lab/</link>
-    <description> Go back to homepage </description>
+    <description> <![CDATA[ Click <a href="https://druid24-lab.github.io/Admin-lab/">here</a> ]] </description>
     </item>
   </channel>
 </rss>
