@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url={{ "/" | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url=https://druid24-lab.github.io/Admin-lab">
   </head>
   <body>
     <p>
-      If you are not redirected automatically, <a href="{{ "/" | absolute_url }}"> go to homepage</a>.</p>
+      Wenn Sie nicht automatisch weitergeleitet werden, klicken Sie auf <a href="https://druid24-lab.github.io/Admin-lab"></a>.
+    </p>
   </body>
 </html>
