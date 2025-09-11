@@ -12,5 +12,5 @@ Since then, I have focused on building practical IT skills through personal
 projects. My goal is to grow into a full-time IT support or system administration role, 
 where I can combine technical expertise with a passion for keeping IT systems running smoothly.  
   
-Outside of work, I enjoy 🛠️tinkering with cars and reading about latest news in Tech & Science.  
+Outside of work, I enjoy learning 🇩🇪German, 🛠️tinkering with cars and reading about latest news in Tech & Science.  
 
