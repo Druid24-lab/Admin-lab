@@ -13,5 +13,7 @@ Healthcare IT. I wanna wake up everyday knowing I had the tiniest impact.
 I find solving problems for other users very rewarding. I enjoy long walks, good music and engaging conversations.
 Currently, I live in Germany and mostly preoccupied with work and learning german.
 I am getting IT certifications related to healthcare and open to job offers in the 
-Healthcare industry. [resume](https://lebenslauf-addo-isaiah.tiiny.site)
+Healthcare industry.  
+
+[**Resume**](https://lebenslauf-addo-isaiah.tiiny.site)
 
