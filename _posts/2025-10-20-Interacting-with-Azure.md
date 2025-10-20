@@ -8,7 +8,7 @@ between bash or powershell and use Azure CLI Interactive mode. This changes CLI 
 Interactive mode provides autocompletion, command descriptions. 
 Enter az interactive to enter interactive mode.
 
-![Azure web portal and cloud shell](/screenshot(1).png)
+![Azure web portal and cloud shell](/Screenshot (1).png)
 
 
 
