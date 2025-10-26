@@ -1,1 +1,1 @@
-Portfolio Blog about anything. What can I do and what am I doing.
+Portfolio Blog about anything.
