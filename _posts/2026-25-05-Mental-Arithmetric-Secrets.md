@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Mental Arithmetric Secrets by Arthur Benjamin"
 ---
 
